@@ -1,4 +1,4 @@
-# CUDA K-Nearest Neighbors (KNN) Implementation
+# KNN Implementation in CUDA
 
 ## Project Overview
 This project is a GPU-accelerated implementation of the K-Nearest Neighbors (KNN) algorithm using CUDA. The purpose of this project is to leverage the parallel processing capabilities of GPUs to efficiently compute nearest neighbors for large datasets. The implementation focuses on using CUDA to optimize computational performance and reduce the overall runtime, especially for high-dimensional data.
